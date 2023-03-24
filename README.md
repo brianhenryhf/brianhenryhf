@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Who am I?
+I'm Brian Henry, a polyglot senior software engineer with a lengthy record of success delivering all tiers of web and enterprise applications. I design and craft solutions rooted in technologies like Java/JEE/Spring, Ruby/Rails, and Node.js, backing them with various RDBMS/NoSQL data stores and message queues, and building dynamic and responsive classic and JS-based SPA front-ends.
+
+I'm proficient in all aspects of the SDLC, from detailed requirements analysis to efficient heads-down coding, and take pride in delivering well-tested artifacts, on-time. I'm a self-directed problem-solver who elevates teams with experience, collaboration, and mentorship.
+
+# I'm currently working on
+- Being a better software technician - learning my tools and improving on underlying theory
+- Expanding my sphere of knowledge - always primed to pursue the next level or the lateral domains
+- Getting better at sharing and guiding - perpetually room to grow there, and plenty to give
+
+# I’m currently learning
+- I'm T-shaped and the T stem is currently shifting to C# or Typescript.
+- I am unquenchably always learning something, and tomorrow it may be d3 for graphing, kinesis stream wrangling, dotnet's DI framework (or LINQ), etc
+
+#  I’m looking for help with 
+- I'm really excited to further a goal that is close to making people happy, in a meaningful way.  For example, medical advance that heals cancer. or something that makes oldsters less lonely.
+
+
+
