@@ -23,6 +23,7 @@ I'm proficient in all aspects of the SDLC, from detailed requirements analysis t
 - Being a better software technician - learning my tools and improving on underlying theory
 - Expanding my sphere of knowledge - always primed to pursue the next level or the lateral domains
 - Getting better at sharing and guiding - perpetually room to grow there, and plenty to give
+- Some woodworkssing, and ;k
 
 # I’m currently learning
 - I'm T-shaped and the T stem is currently shifting to C# or Typescript.
