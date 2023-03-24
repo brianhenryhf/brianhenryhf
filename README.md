@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Who am I?
+# Who is Brian
 I'm Brian Henry, a polyglot senior software engineer with a lengthy record of success delivering all tiers of web and enterprise applications. I design and craft solutions rooted in technologies like Java/JEE/Spring, Ruby/Rails, and Node.js, backing them with various RDBMS/NoSQL data stores and message queues, and building dynamic and responsive classic and JS-based SPA front-ends.
 
 I'm proficient in all aspects of the SDLC, from detailed requirements analysis to efficient heads-down coding, and take pride in delivering well-tested artifacts, on-time. I'm a self-directed problem-solver who elevates teams with experience, collaboration, and mentorship.
