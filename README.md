@@ -5,6 +5,6 @@ I've delivered responsive SPA and traditional server web apps, MQ-driven async b
 
 I'm proficient in all aspects of the SDLC, from detailed requirements analysis to heads-down coding. I enjoy teasing out requirements and planning execution of new product features. I'm also a seasoned brownfield code archeologist.
 
-I'm a self-directed problem-solver. I'm also driven to supercharge the success of my colleagues, through mentorship and knowledge-sharing (my code reviews get rave... well, reviews 🙂). I've organized teams, built out project plans, and shepherded eforts home.
+I'm a self-directed problem-solver. I'm also driven to supercharge the success of my colleagues, through mentorship and knowledge-sharing (my code reviews get rave... well, reviews 🙂). I've organized teams, built out project plans, and shepherded many efforts home.
 
 Please [let me know how I can help](https://www.linkedin.com/in/brian-henry-codes/)!
