@@ -7,4 +7,4 @@ I'm proficient in all aspects of the SDLC, from detailed requirements analysis t
 
 I'm a self-directed problem-solver. I'm also driven to supercharge the success of my colleagues, through mentorship and knowledge-sharing (my code reviews get rave... well, reviews 🙂). I've organized teams, built out project plans, and shepherded eforts home.
 
-Please let me know how I can help!
+Please [let me know how I can help](https://www.linkedin.com/in/brian-henry-codes/)!
