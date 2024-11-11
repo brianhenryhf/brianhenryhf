@@ -1,4 +1,3 @@
-![Brian Henry](https://media.licdn.com/dms/image/v2/D5616AQF2EKiJsoYH4A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1679623134479?e=1736985600&v=beta&t=jqwPa7Na4qAwiX1_au1Qg22HuEEaDuLlvyFtEqSM93I)
 **Hi - I'm Brian**, a polyglot software master craftsman. 
 
 
